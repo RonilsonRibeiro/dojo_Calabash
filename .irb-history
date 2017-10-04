@@ -1,0 +1,42 @@
+reinstall_apps
+exit
+start_test_server_in_background
+exit
+exit
+start_test_server_in_background
+query("*")
+touch("* id:'cadastrar'")
+query("*")
+query("AppCompatEditText")
+exit
+query "* Button"
+query "*"
+query "* AppCompatButton"
+exit
+start_test_server_in_background
+query("AppCompatButton")
+exit
+start_test_server_in_background
+query("*")
+exit
+exit
+start_test_server_in_background
+query("*")
+touch("* id:'consulta'")
+exit
+start_test_server_in_background
+query("*")
+exit
+start_test_server_in_background
+query("*")
+touch("* text:'ABC0101'")
+exit
+start_test_server_in_background
+query("*")
+exit
+reinstall_apps
+exit
+start_test_server_in_background
+start_test_server_in_background
+query("*")
+exit
